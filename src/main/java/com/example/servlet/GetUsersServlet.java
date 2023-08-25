@@ -1,9 +1,7 @@
 package com.example.servlet;
 
-import com.example.User;
 import com.example.Warehouse;
 
-import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
